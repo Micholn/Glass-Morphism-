@@ -110,8 +110,3 @@ http://api.whatsapp.com/send?phone=2348103299638&text=welcome
 
 
 
-
-
-
-
-
