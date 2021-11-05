@@ -68,6 +68,5 @@ here i'll be working with two different applications, i'll make two folders, fir
 be for our CLIENT side application or React side, then the second one is going to be for the NODE
 
 dependencies i'm going to install are: 
-on the server side: 
-
+on the se
 body-parser which e
