@@ -81,4 +81,3 @@ express: used as a framework to create the routing application
 cors: this enable cross origin requests 
 
 mongoose: to create modules for our posts 
-
