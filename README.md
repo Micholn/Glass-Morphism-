@@ -67,4 +67,4 @@ It's a full fledged CRUD application. that can create, read, update and delete.
 here i'll be working with two different applications, i'll make two folders, first one is going to 
 be for our CLIENT side application or React side, then the second one is going to be for the NODE
 
-dependencies i'm going to install are
+dependencies i'm going to install
