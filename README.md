@@ -91,4 +91,3 @@ axios: for making Api requests
 moment: moment.js is a library for working with time and date
 
 react-file-base-64: for converting images  
-
