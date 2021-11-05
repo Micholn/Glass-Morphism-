@@ -64,7 +64,6 @@ as a software developer you aren't just battling with codes, you're battling wit
 the object in this whole bunch of software is to process and digest the coding dialect and ethics 
 
 
-
 Here i'm going to use mongodb, Express, React and node. 
 It's a full fledged CRUD application. that can create, read, update and delete.
 
