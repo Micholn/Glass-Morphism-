@@ -82,4 +82,3 @@ cors: this enable cross origin requests
 
 mongoose: to create modules for our posts 
 
-nodemon: so that i dont have to manually restart the server everytime i make a change
