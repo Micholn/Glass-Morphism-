@@ -65,14 +65,6 @@ the object in this whole bunch of software is to process and digest the coding d
 
 
 
-
-
-
-
-
-
-
-
 Here i'm going to use mongodb, Express, React and node. 
 It's a full fledged CRUD application. that can create, read, update and delete.
 
