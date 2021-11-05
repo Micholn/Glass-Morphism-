@@ -70,4 +70,4 @@ be for our CLIENT side application or React side, then the second one is going t
 dependencies i'm going to install are: 
 on the server side: 
 
-body-parser which enables me to
+body-parser which e
