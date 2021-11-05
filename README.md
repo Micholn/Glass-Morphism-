@@ -77,5 +77,3 @@ on the server side:
 body-parser which enables me to send post requests
 
 express: used as a framework to create the routing application
-
-cors: this enable cross origin requests 
