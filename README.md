@@ -94,6 +94,4 @@ react-file-base-64: for converting images
 
 redux-redux-thunk: used for asynchronous actions using redux
 
-on the client side, src folder: we create an index.js file which we'll use to connect our react 
-application to our index.html file  
 
