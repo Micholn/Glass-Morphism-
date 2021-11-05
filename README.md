@@ -54,9 +54,6 @@ then i'm going to use mongoose to connect to our database
 
 
 
-
-
-
 ma thoughts are introverted by my staying up all night to work on these softwares especially with 
 rap music on the side seriously, programming aint just interesting, it's the holy grail, 
 nappy hair, gap in her smile.
