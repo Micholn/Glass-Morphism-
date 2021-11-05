@@ -106,8 +106,6 @@ on the client side, src folder: we create an index.js file which we'll use to co
 application to our index.html file  
 
 
-then i'm going to use mongoose to connect to our database
-
 
 
 
