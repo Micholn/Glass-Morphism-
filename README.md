@@ -92,6 +92,4 @@ moment: moment.js is a library for working with time and date
 
 react-file-base-64: for converting images  
 
-redux-redux-thunk: used for asynchronous actions using redux
-
-
+r
