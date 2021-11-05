@@ -85,8 +85,3 @@ mongoose: to create modules for our posts
 nodemon: so that i dont have to manually restart the server everytime i make a change
 
 on the client side 
-
-axios: for making Api requests 
- 
-moment: moment.js is a library for working with time and date
-
